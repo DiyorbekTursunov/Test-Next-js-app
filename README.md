@@ -28,8 +28,8 @@ A simple Next.js application that displays and filters users from a public API.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/user-directory-app.git
-cd user-directory-app
+git clone https://github.com/DiyorbekTursunov/Test-Next-js-app
+cd Test-Next-js-app
 ```
 
 2. Install dependencies:

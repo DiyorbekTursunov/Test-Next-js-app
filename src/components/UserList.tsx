@@ -24,7 +24,7 @@ const UserList = ({ users, filter }: UserListProps) => {
   if (filteredUsers.length === 0) {
     return (
       <div className="text-center py-8 text-gray-500">
-        <p>No users found matching "{filter}"</p>
+        <p>No users found matching &quot;{filter}&quot;</p>
       </div>
     );
   }
